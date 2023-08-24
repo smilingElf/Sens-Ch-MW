@@ -4,7 +4,7 @@ All codes corresponding to the paper——《Sensitive Channel Selection for Men
 
 ![img](https://github.com/smilingElf/Sensitive-Channel-MW/blob/main/pic/alpha.gif) ![img](https://github.com/smilingElf/Sensitive-Channel-MW/blob/main/pic/beta.gif)
 
-<img src="[https://github.com/smilingElf/Sensitive-Channel-MW/blob/main/pic/ECE_formation.jpg]" width="200"/> <img src="https://github.com/smilingElf/Sensitive-Channel-MW/blob/main/pic/corr_analysis.jpg" width="300"/>
+<img src="[https://github.com/smilingElf/Sensitive-Channel-MW/blob/main/pic/ECE_formation.jpg]" width="300"/> <img src="https://github.com/smilingElf/Sensitive-Channel-MW/blob/main/pic/corr_analysis.jpg" width="300"/>
 
 ![img](https://github.com/smilingElf/Sensitive-Channel-MW/blob/main/pic/sens_analysis.png)![img](https://github.com/smilingElf/Sensitive-Channel-MW/blob/main/pic/comparation.jpg)
 
