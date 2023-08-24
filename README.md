@@ -8,5 +8,5 @@ Through the observation of energy cloud maps of the whole brain, it can be seen 
 
 ![img](https://github.com/smilingElf/Sensitive-Channel-MW/blob/main/pic/ECE_formation.jpg)![img](https://github.com/smilingElf/Sensitive-Channel-MW/blob/main/pic/corr_analysis.jpg)
 
-![img](https://github.com/smilingElf/Sensitive-Channel-MW/blob/main/pic/sens_analysis.jpg)![img](https://github.com/smilingElf/Sensitive-Channel-MW/blob/main/pic/comparation.jpg)
+![img](https://github.com/smilingElf/Sensitive-Channel-MW/blob/main/pic/sens_analysis.png)![img](https://github.com/smilingElf/Sensitive-Channel-MW/blob/main/pic/comparation.jpg)
 
